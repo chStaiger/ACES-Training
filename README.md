@@ -1,5 +1,8 @@
 # ACES training pipeline
 
+*Please refer to https://github.com/sara-nl/ACES-Training for an up-to-date version of this repository*
+
+
 ## Synopsis
 This tutorial teaches master and PhD students how to coordinate so-called embarassingly parrallel computational tasks across different infratsructures.
 The tutorial shows students how to create tokens and process tokens which code for the single runs.
